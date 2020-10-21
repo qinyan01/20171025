@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T03:59:52.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="RcT8V2rOgMO42XsgUsJd" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T04:20:02.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="t-UfHD25pzyCzjC3qO03" type="github">
   <diagram id="9ab2af9e-8519-e6b5-e691-bd5f1140bc43" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9" value="数据管理计划" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="240" y="47" width="120" height="30" as="geometry" />
+          <mxGeometry x="240" y="37" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="10" value="数据产生与收集" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="100" width="120" height="30" as="geometry" />
@@ -85,13 +85,10 @@
         <mxCell id="21" value="研究构想" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="80" y="63" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="后续研究" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="120" y="465" width="20" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="24" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="299" y="80" as="sourcePoint" />
-            <mxPoint x="299" y="100" as="targetPoint" />
+            <mxPoint x="299" y="71" as="sourcePoint" />
+            <mxPoint x="299" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="26" value="" style="endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" edge="1">
@@ -132,8 +129,8 @@
         </mxCell>
         <mxCell id="32" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;startSize=6;arcSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="512" as="sourcePoint" />
-            <mxPoint x="380" y="62" as="targetPoint" />
+            <mxPoint x="380" y="538" as="sourcePoint" />
+            <mxPoint x="380" y="32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="40" value="数据意识" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
@@ -148,7 +145,7 @@
         <mxCell id="43" value="数据创建与数据收集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="433" y="98" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="44" value="数据发现与获取（注）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="44" value="数据发现与获取*" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="435" y="114" width="124" height="20" as="geometry" />
         </mxCell>
         <mxCell id="45" value="数据类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
@@ -199,7 +196,7 @@
         <mxCell id="62" value="数据共享的法律问题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="432" y="430" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="63" value="数据发现与获取（注）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="63" value="数据发现与获取*" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="433" y="457" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="65" value="数据引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" parent="1" vertex="1">
@@ -207,6 +204,9 @@
         </mxCell>
         <mxCell id="66" value="注：在数据产生与收集和数据发现与获取阶段均涉及数据发现与获取能力" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="50" y="560" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LgneYZMIXr5HGkbMOr1o-71" value="后续研究" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="467" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
